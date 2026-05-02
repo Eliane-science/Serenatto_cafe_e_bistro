@@ -1,4 +1,4 @@
-# Serenatto Café e Bistrô
+# Serenatto Café e Bistrô  ☕🥐
 
 ### Loja Online - Curso de Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript.
 Este repositório acompanha o curso de desenvolvimento de uma loja online, utilizando HTML, CSS, Bootstrap 5 (nova versão) e JavaScript.
@@ -13,29 +13,29 @@ Este repositório acompanha o curso de desenvolvimento de uma loja online, utili
 
 ### O que aprendi no curso:
 
-#1
+### 1 - Iniciando Projeto:
 - Resposividade;
 - Aplicar efeito translúcido com Bootstrap;
 - Inserir efeito Parallax com CSS;
 - Estilizar Inputs.
 
-#2
+### 2 - Componentes do Bootstrap:
 - Pegar novos componentes da documentação;
 - Unir diferentes componentes em um projeto;
 - Analisar as diferentes classes de container.
 
-#3
+### 3 - Estilizando Cards e modais:
 - Inserir componente de cards no projeto;
 - Organizar elementos na tela de forma responsiva com Grid e Breakpoints;
 - Inserir componentes de modal em um projeto.
 
-#4
+### 4 - Formulário com Bootstrap:
 - Criar um formulário unindo componentes do Bootstrap;
 - Importância da semântica no código HTML;
 - Aplicar responsividade no formulário;
 - Aplicar cor no input range do Bootstrap.
 
-#5
+### 5 - Modo noturno com Bootstrap:
 - Aplicar modo noturno em um projeto;
 - Fazer alterações no tema de modo noturno do Bootstrap com CSS;
 - Implementar método para alterar a página entre modo claro e modo noturno, utilizando JavaScript;
